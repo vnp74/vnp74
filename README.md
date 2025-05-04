@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vnp74
 - 👀 I’m interested in data structures and algorithms
-- 🌱 I just completed my diploma in Information technology. 
+- 🌱 I am a recent graduate from Central Queensland University, did Bachelors of Information Technology. 
 - 📫 Reach me through my email- patelvraj129@gmail.com
 
 <!---
