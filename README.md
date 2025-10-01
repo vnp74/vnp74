@@ -1,4 +1,4 @@
-# Hi there, I'm VNP 👋  
+# Hi there, I'm VRAJKUMAR PATEL 👋  
 
 🚀 Front-End Developer | 🌱 Aspiring Full-Stack | 💡 Building interactive UIs with modern tools  
 
