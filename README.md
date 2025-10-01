@@ -28,9 +28,8 @@
 
 ## 📌 Featured Projects  
 
-- 🎨 [**Portfolio Website**](https://github.com/vnp74/portfolio) — My personal portfolio built with React + Tailwind  
-- 📝 [**Todo App**](https://github.com/vnp74/todo-app) — A simple React app with local storage  
-- 📷 [**Image Gallery**](https://github.com/vnp74/image-gallery) — Responsive image gallery with CSS Grid  
+- 🎨 [**Social Media Web App**](https://github.com/vnp74/Social-Media) — My personal practice project built with React + Bootstrap  
+- 📝 [**EveryDay-Recycling-Pro**](https://everyday-recycling-pro.vercel.app/) — A responsive Next + Tailwind recycling app,
 
 👉 Explore more in [my repositories](https://github.com/vnp74?tab=repositories).  
 
@@ -50,7 +49,7 @@
 ## 🤝 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/vrajp06">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;
